@@ -1,0 +1,1 @@
+INSERT INTO users(user_id, name, email, password, created, modified) VALUES ('cd34344389d4403aacdcad4be6485171', 'Jose Ordonez', 'jmo@gmail.com', 'test321', '2022-07-15 18:03:45.566353', '2022-07-15 18:03:45.566353');
