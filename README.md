@@ -1,7 +1,7 @@
 ## Contenido 
-1. [Informaci髇 General](#informacion-general)
+1. [Informaci贸n General](#informacion-general)
 2. [Requisitos](#requisitos)
-3. [Instalaci髇](#instalacin)
+3. [Instalaci贸n](#instalacin)
 4. [Ejemplos de consumo](#ejemplos-de-consumo)
 ### Informacion General
 ***
@@ -14,13 +14,14 @@ Lista de librerias usadas para este proyecto
 * Lombok
 * OkHttp
 
-Metodolog韆s
+Metodolog铆as
 
 * Arquitectura limpia
-* Programaci髇 funcional
+* Programaci贸n funcional
 
-Diagrama de la soluci髇
+Diagrama de la soluci贸n
 
+![arquitectura solucion](https://user-images.githubusercontent.com/69325840/179370257-dead999a-ec03-4eb1-b9ad-8a0e4c4dd8d8.PNG)
 
 
 ***
@@ -28,7 +29,7 @@ Diagrama de la soluci髇
 
 * JAVA 11
 
-## Instalaci髇
+## Instalaci贸n
 ***
 * 1: Clonar el proyecto.
 * 2: Abrir el proyecto con su IDE de confianza.
@@ -36,7 +37,7 @@ Diagrama de la soluci髇
 * 4: Abrir POSTMAN para el consumo del Servicio.
 ***
 ## Ejemplos de consumo
-El proyecto implementa un nivel de seguridad mediante Bearer Token, por lo que es obligatorio realizar inicialmente el consumo del m閠odo "LOGIN" para obtener el token de seguridad el cual debe de incluir en las peticiones en el header del m閠odo "SAVE".
+El proyecto implementa un nivel de seguridad mediante Bearer Token, por lo que es obligatorio realizar inicialmente el consumo del m茅todo "LOGIN" para obtener el token de seguridad el cual debe de incluir en las peticiones en el header del m茅todo "SAVE".
 
 Metodo LOGIN
 * URL:http://localhost:9091/api/login
