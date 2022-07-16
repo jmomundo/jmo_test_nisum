@@ -21,7 +21,7 @@ public static final String AUTHORIZATION_HEADER = "Authorization";
                 "Proyecto de prueba tecnica para el proceso de seleccion con nisum.",
                 "1.0",
                 "Terms of service",
-                new Contact("Jose Miguel Ordonez", "", "jmo@hotmail.com"),
+                new Contact("Jose Miguel Ordonez", "", "jmo-91@hotmail.com"),
                 "License of API",
                 "API license URL",
                 Collections.emptyList());
